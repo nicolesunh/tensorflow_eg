@@ -1,5 +1,5 @@
 # jupyter文件存储位置更改
-jupyter notebook的编辑是依托于某个文件夹进行的，默认打开文件夹为安装到的那个目录。在cmd窗口输入jupyter-notebook –generate-config会返回一个文件的路径，打开该文件，找到下面所示的代码
+jupyter notebook的编辑是依托于某个文件夹进行的，默认打开文件夹为安装到的那个目录。在cmd窗口输入jupyter notebook --generate-config会返回一个文件的路径，打开该文件，找到下面所示的代码
 
 ```
 1.## The directory to use for notebooks and kernels.
